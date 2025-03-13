@@ -1,0 +1,7 @@
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\bin\Debug\TRPO_GIT.exe.config
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\bin\Debug\TRPO_GIT.exe
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\bin\Debug\TRPO_GIT.pdb
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\obj\Debug\TRPO_GIT.csproj.AssemblyReference.cache
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\obj\Debug\TRPO_GIT.csproj.CoreCompileInputs.cache
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\obj\Debug\TRPO_GIT.exe
+C:\Users\328-7\Documents\Valiev\TRPO_GIT\obj\Debug\TRPO_GIT.pdb
